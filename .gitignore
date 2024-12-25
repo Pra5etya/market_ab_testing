@@ -1,0 +1,16 @@
+# python environment
+/my_env
+
+# dataset
+/dataset
+/datamart
+
+# .env
+.env.secret
+.env.shared
+
+# files
+note.ipynb
+note.txt
+
+# other 
